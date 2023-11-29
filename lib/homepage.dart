@@ -88,6 +88,7 @@ class Homepage extends StatelessWidget {
                                           const SizedBox(
                                             height: 10,
                                           ),
+                                          Text("Thankes kinan")
                                         ]),
                                   ),
                                 ),
